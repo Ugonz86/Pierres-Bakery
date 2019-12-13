@@ -6,13 +6,16 @@
 
 ## Description
 
-A program where a user can specify the number of bread or pastries desired to purchase and see the total cost. The bakery the following deals: buy two loaves of bread and get one free or 3 pastries for $5.00.
-Prices: bread: $5.00, pastry: $2
+A C# program where a user can specify the number of bread or pastries desired to purchase and see the total cost. The program uses multiple classes and methods to function. The bakery the following deals: buy two loaves of bread and get one free or 3 pastries for $5.00.
+Prices: Bread, $5.00, Pastry, $2
 
 ### Specs
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
-| **User selects 1 of each items.** | 1 bread loaf | $5.00 |
+| **User selects bread amount** | Bread amount: 1 | Total: $5.00 |
+| **User selects pastry amount** | Pastry amount: 1 | Total: $2.00 |
+| **User gets daily offer applied to the order** | Bread amount: 3 | Total: $10.00 |
+| **User gets daily offer applied to the order** | Pastry amount: 3 | Total: $5.00 |
 
 ## Setup/Installation Requirements
 
