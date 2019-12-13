@@ -16,6 +16,7 @@ Prices: Bread, $5.00, Pastry, $2
 | **User selects pastry amount** | Pastry amount: 1 | Total: $2.00 |
 | **User gets daily offer applied to the order** | Bread amount: 3 | Total: $10.00 |
 | **User gets daily offer applied to the order** | Pastry amount: 3 | Total: $5.00 |
+| **Program return total amount at checkout** | Bread amount: 5 $20.00 , Pastry amount: 5 $9.00 | Total: $29.00 |
 
 ## Setup/Installation Requirements
 
