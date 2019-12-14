@@ -1,6 +1,6 @@
 # Pierre's Bakery
 
-#### _A console application for placing an order at a bakery - 12/13/19_
+#### _A C# console application for placing an order at a bakery. - 12/13/19_
 
 #### _By **Uriel Gonzalez**_
 
@@ -41,6 +41,6 @@ _Please contact Uriel Gonzalez with questions and comments._
 
 ### License
 
-*GNU GPLv3*
+*MIT License*
 
 Copyright (c) 2019 **_Uriel Gonzalez_**
